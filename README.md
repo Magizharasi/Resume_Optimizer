@@ -129,5 +129,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - All contributors who help improve this application
 
 ---
-
-Built with ❤️ by Richie M
